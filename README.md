@@ -1,0 +1,4 @@
+--the test and the comprising files are obtained from kaggle titanic competition. i participated in the ongoing contest.
+-- the contest was prior 2 months to the day i am commiting on github.
+--at this point i have limited knowledge on seaborn,pytorch,numpy,pandas and comprising tools 
+--i scored 86% accuracy which at the time was among top two percentile of submissions.
